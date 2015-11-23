@@ -4,6 +4,8 @@ Bdd-Client-Td2
 Bdd-Client-App-Android-Meteo
 
 TD 2 : BDD d’une Application Cliente Mobile
+petite description de l'appli au debut on choisit la ville et le pays avant d'appuyer sur le bouton metéo pour avoir la meteo 
+baisser le clavier apres appui du bouton car sur certain telephone ca le fait automatiquement et d'autrez non
 
 A) Etude des données d’une application mobile
 
