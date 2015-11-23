@@ -18,7 +18,8 @@ unitees :distance,temperature...
 description : date, heure, commentaire sur le temps...
 
 Pour chaque donnée ou ensemble de données, choisir un moyen de stockage local dans l’environnement Android.
-Donnees locals : SQLite
+
+*Donnees locals :__ SQLite
 
 
 B) Récupérer les données du serveur
